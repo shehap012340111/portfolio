@@ -210,7 +210,7 @@ h1 , h2 ,h3 ,h4,h5,h6{
     color: #ccc;
 }
 .ABOUT .content p a{
-      color: var(--red);
+      color: #da2c4d;
 }
 .ABOUT .imge {
     width: 400px;
