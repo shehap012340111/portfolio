@@ -350,6 +350,7 @@ font-size: 50px;
 
 .button-group .button {
     margin: 0 5px;
+    background-color: #fff;
 }
 
 .button-group {
@@ -407,7 +408,9 @@ font-size: 50px;
     right: 30px;
     top: calc(50% - 25px);
 }
-
+.button:active, .button.is-checked{
+    background-color: #eaa451 !important;
+}
 #sliderProj .owl-prev {
     position: absolute;
     left: 0px;
